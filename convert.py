@@ -1,12 +1,16 @@
-import csv
+# import csv
 import json
+import pandas as pd
+
+df = pd.read_excel('./style.xlsx')
+print(df)
+
+rows = df.to_numpy()
 
 stylies = []
-with open('style.csv', 'r') as f_csv:
-    rows = csv.reader(f_csv, delimiter='\t')
-    for row in rows:
-        s = {'name': row[0], 'image': row[1], 'mlmodel': row[2]}
-        stylies.append(s)
+for row in rows:
+    s = {'name': row[0], 'imageURL': row[1], 'mlmodelURL': row[2], 'mlmodelc': row[3]}
+    stylies.append(s)
 
 with open('style.json', 'w') as f:
     json.dump(stylies, f, indent=4)

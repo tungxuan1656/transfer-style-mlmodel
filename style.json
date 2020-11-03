@@ -1,72 +1,86 @@
 [
     {
         "name": "Wave",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/wave/wave.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/wave/wave.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/wave/wave.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/wave/wave.mlmodel",
+        "mlmodelc": "wave.mlmodelc"
     },
     {
         "name": "Udnie",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/udnie/udnie.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/udnie/udnie.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/udnie/udnie.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/udnie/udnie.mlmodel",
+        "mlmodelc": "udnie.mlmodelc"
     },
     {
         "name": "Tytus",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/tytus/tytus.png",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/tytus/tytus.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/tytus/tytus.png",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/tytus/tytus.mlmodel",
+        "mlmodelc": "tytus.mlmodelc"
     },
     {
         "name": "The Shipwreck",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_shipwreck/the_shipwreck.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_shipwreck/the_shipwreck.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_shipwreck/the_shipwreck.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_shipwreck/the_shipwreck.mlmodel",
+        "mlmodelc": "the_shipwreck.mlmodelc"
     },
     {
         "name": "The Scream",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_scream/the_scream.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_scream/the_scream.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_scream/the_scream.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/the_scream/the_scream.mlmodel",
+        "mlmodelc": "the_scream.mlmodelc"
     },
     {
         "name": "Terraces",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/terraces/terraces.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/terraces/terraces.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/terraces/terraces.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/terraces/terraces.mlmodel",
+        "mlmodelc": "terraces.mlmodelc"
     },
     {
         "name": "Rain Princess",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/rain_princess/rain_princess.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/rain_princess/rain_princess.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/rain_princess/rain_princess.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/rain_princess/rain_princess.mlmodel",
+        "mlmodelc": "rain_princess.mlmodelc"
     },
     {
         "name": "Lonely Afternoon",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lonely_afternoon/lonely_afternoon.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lonely_afternoon/lonely_afternoon.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lonely_afternoon/lonely_afternoon.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lonely_afternoon/lonely_afternoon.mlmodel",
+        "mlmodelc": "lonely_afternoon.mlmodelc"
     },
     {
         "name": "Lead",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lead/lead.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lead/lead.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lead/lead.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/lead/lead.mlmodel",
+        "mlmodelc": "lead.mlmodelc"
     },
     {
         "name": "La Muse",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/la_muse/la_muse.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/la_muse/la_muse.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/la_muse/la_muse.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/la_muse/la_muse.mlmodel",
+        "mlmodelc": "la_muse.mlmodelc"
     },
     {
         "name": "Heaven",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/heaven/heaven.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/heaven/heaven.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/heaven/heaven.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/heaven/heaven.mlmodel",
+        "mlmodelc": "heaven.mlmodelc"
     },
     {
-        "name": "Sweet",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/boy_sweet/boy_sweet.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/boy_sweet/boy_sweet.mlmodel"
+        "name": "Sweet\t",
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/boy_sweet/boy_sweet.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/boy_sweet/boy_sweet.mlmodel",
+        "mlmodelc": "boy_sweet.mlmodelc"
     },
     {
         "name": "Block",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/block/block.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/block/block.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/block/block.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/block/block.mlmodel",
+        "mlmodelc": "block.mlmodelc"
     },
     {
         "name": "Among us",
-        "image": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/amongus/amongus.jpg",
-        "mlmodel": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/amongus/amongus.mlmodel"
+        "imageURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/amongus/amongus.jpg",
+        "mlmodelURL": "https://github.com/tungxuan1656/transfer-style-mlmodel/releases/download/amongus/amongus.mlmodel",
+        "mlmodelc": "amongus.mlmodelc"
     }
 ]
